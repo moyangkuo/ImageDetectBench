@@ -1,0 +1,9 @@
+[submodule "tree-ring-watermark"]
+	path = tree-ring-watermark
+	url = https://github.com/YuxinWenRick/tree-ring-watermark
+[submodule "stable_signature"]
+	path = stable_signature
+	url = https://github.com/facebookresearch/stable_signature
+[submodule "StegaStamp"]
+	path = StegaStamp
+	url = https://github.com/tancik/StegaStamp
